@@ -74,6 +74,11 @@
     .design .text {
         top: 70px;
     }
+
+    .about img {
+        bottom: -60px;
+        margin-top: -60px;
+    }
 }
 
 
