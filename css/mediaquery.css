@@ -88,6 +88,15 @@
     .stats .container .box {
         flex-basis: 100%;
     }
+
+    .our-skills .testimonials .content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .our-skills .testimonials .content img {
+        margin: 0 auto 20px;
+    }
 }
 
 
@@ -99,6 +108,10 @@
 
     .stats .container .box {
         flex-basis: 25%;
+    }
+
+    .our-skills .container>div {
+        flex-basis: 45%;
     }
 }
 
