@@ -115,6 +115,16 @@
     }
 }
 
+@media (max-width: 991px) {
+    .subscribe .container {
+        flex-direction: column;
+    }
+
+    .subscribe p {
+        margin: 30px 0 0;
+    }
+}
+
 /* Large  */
 @media (min-width: 1200px) {
     .container {
