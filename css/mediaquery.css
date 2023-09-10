@@ -97,6 +97,23 @@
     .our-skills .testimonials .content img {
         margin: 0 auto 20px;
     }
+
+    .contact .content {
+        flex-direction: column;
+    }
+
+    .contact .content .info {
+        order: -1;
+        text-align: center;
+    }
+
+    .contact .content .info h4:nth-of-type(2) {
+        margin-top: 30px;
+    }
+
+    .contact .content .info address {
+        margin-bottom: 40px;
+    }
 }
 
 
